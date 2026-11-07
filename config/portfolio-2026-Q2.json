@@ -1,0 +1,91 @@
+{
+  "_comment": "The firm's own holdings file for the prior period, used by the 'what changed' page. Weights are fictional.",
+  "as_of": "2026-06-30",
+  "cash_weight": 4.0,
+  "featured": "TXN",
+  "holdings": [
+    {
+      "ticker": "GOOGL",
+      "cik": 1652044,
+      "roic": "NASDAQ:GOOGL",
+      "name": "Alphabet",
+      "sector": "Communication Services",
+      "weight": 11.0
+    },
+    {
+      "ticker": "COST",
+      "cik": 909832,
+      "roic": "NASDAQ:COST",
+      "name": "Costco",
+      "sector": "Consumer Staples",
+      "weight": 12.0
+    },
+    {
+      "ticker": "MA",
+      "cik": 1141391,
+      "roic": "NYSE:MA",
+      "name": "Mastercard",
+      "sector": "Financials",
+      "weight": 10.0
+    },
+    {
+      "ticker": "MRSH",
+      "cik": 62709,
+      "roic": "NYSE:MRSH",
+      "name": "Marsh McLennan",
+      "sector": "Financials",
+      "weight": 10.0
+    },
+    {
+      "ticker": "TXN",
+      "cik": 97476,
+      "roic": "NASDAQ:TXN",
+      "name": "Texas Instruments",
+      "sector": "Information Technology",
+      "weight": 8.0
+    },
+    {
+      "ticker": "DHR",
+      "cik": 313616,
+      "roic": "NYSE:DHR",
+      "name": "Danaher",
+      "sector": "Health Care",
+      "weight": 9.0
+    },
+    {
+      "ticker": "AZO",
+      "cik": 866787,
+      "roic": "NYSE:AZO",
+      "name": "AutoZone",
+      "sector": "Consumer Discretionary",
+      "weight": 9.0
+    },
+    {
+      "ticker": "BKNG",
+      "cik": 1075531,
+      "roic": "NASDAQ:BKNG",
+      "name": "Booking Holdings",
+      "sector": "Consumer Discretionary",
+      "weight": 9.0
+    },
+    {
+      "ticker": "UNP",
+      "cik": 100885,
+      "roic": "NYSE:UNP",
+      "name": "Union Pacific",
+      "sector": "Industrials",
+      "weight": 10.0
+    },
+    {
+      "ticker": "CMI",
+      "cik": 26172,
+      "roic": "NYSE:CMI",
+      "name": "Cummins",
+      "sector": "Industrials",
+      "weight": 8.0
+    }
+  ],
+  "notes": {
+    "quality": "Five-year comparisons for calendar-year companies start in fiscal 2020, when the pandemic cut travel: Booking's operating margin was negative that year, which explains its growth and margin change."
+  }
+}

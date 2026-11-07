@@ -1,0 +1,21 @@
+{
+  "_comment": "The firm's recurring exhibit set, in display order. Set enabled=false to drop an exhibit without deleting its code. client_safe=false keeps an exhibit out of the client version and makes the build also write an internal version that includes it; use it for any data your firm decides not to show clients (for example a FRED series labelled Copyrighted: Pre-approval required). The valuation pages use roic.ai data, shown to clients by the firm's decision (2026-11-07): the data are not resold. Check your own provider's terms of use before you do the same.",
+  "exhibits": [
+    {"id": "cover",           "client_safe": true,  "enabled": true},
+    {"id": "glance",          "client_safe": true,  "enabled": true},
+    {"id": "yield_curve",     "client_safe": true,  "enabled": true},
+    {"id": "real_yields",     "client_safe": true,  "enabled": true},
+    {"id": "policy",          "client_safe": true,  "enabled": true},
+    {"id": "dashboard",       "client_safe": true,  "enabled": true},
+    {"id": "quality",         "client_safe": true,  "enabled": true},
+    {"id": "shares",          "client_safe": true,  "enabled": true},
+    {"id": "capital",         "client_safe": true,  "enabled": true},
+    {"id": "featured",        "client_safe": true,  "enabled": true},
+    {"id": "valuation",       "client_safe": true,  "enabled": true, "data": "roic.ai"},
+    {"id": "valuation_table", "client_safe": true,  "enabled": true, "data": "roic.ai"},
+    {"id": "positioning",     "client_safe": true,  "enabled": true},
+    {"id": "changed",         "client_safe": true,  "enabled": true},
+    {"id": "methodology",     "client_safe": true,  "enabled": true},
+    {"id": "disclosures",     "client_safe": true,  "enabled": true}
+  ]
+}
