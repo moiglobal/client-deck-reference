@@ -1,0 +1,16 @@
+.env
+cache/
+__pycache__/
+*.pyc
+setup-check.md
+runs/*/snapshot.json
+runs/*/pages-*/
+runs/*/*.pptx
+runs/*/*.pdf
+runs/*/*.csv
+runs/*/manifest.json
+runs/*/review-checklist.md
+runs/*/verification.md
+brand/brand-captured.json
+brand/capture-report.md
+brand/logo-captured.png
