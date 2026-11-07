@@ -1,0 +1,292 @@
+slide,label,display,value,source,series_or_tag,period,url,derivation
+At a glance,"10-year Treasury yield, quarter end",5.29%,5.29,Federal Reserve Bank of St. Louis (FRED),DGS10,2026-09-30,https://fred.stlouisfed.org/series/DGS10,
+At a glance,10-year yield change in quarter,+0.85 pt in the quarter,0.85,Federal Reserve Bank of St. Louis (FRED),DGS10,2026-06-30 to 2026-09-30,https://fred.stlouisfed.org/series/DGS10,DGS10 at quarter end minus DGS10 at prior quarter end
+At a glance,"CPI inflation, year over year",3.4%,3.353016,Federal Reserve Bank of St. Louis (FRED),CPIAUCSL,August 2026,https://fred.stlouisfed.org/series/CPIAUCSL,CPIAUCSL / CPIAUCSL 12 months earlier - 1
+At a glance,Unemployment rate,4.1%,4.1,Federal Reserve Bank of St. Louis (FRED),UNRATE,August 2026,https://fred.stlouisfed.org/series/UNRATE,
+At a glance,Unemployment change over 12 months,"-0.2 pt over 12 months, August 2026",-0.2,Federal Reserve Bank of St. Louis (FRED),UNRATE,August 2025 to August 2026,https://fred.stlouisfed.org/series/UNRATE,
+At a glance,"Holdings' revenue growth, 5-year CAGR, weighted",11.7%,11.73948,SEC EDGAR,Revenues (see methodology for tag per company),latest five fiscal years,,"weight-averaged compound annual growth of each holding's revenue, latest FY vs five years earlier"
+Yield curve,"3m yield, quarter end",4.20%,4.2,Federal Reserve Bank of St. Louis (FRED),DGS3MO,2026-09-30,https://fred.stlouisfed.org/series/DGS3MO,
+Yield curve,"10y yield, quarter end",5.29%,5.29,Federal Reserve Bank of St. Louis (FRED),DGS10,2026-09-30,https://fred.stlouisfed.org/series/DGS10,
+Yield curve,"30y yield, quarter end",5.64%,5.64,Federal Reserve Bank of St. Louis (FRED),DGS30,2026-09-30,https://fred.stlouisfed.org/series/DGS30,
+Yield curve,"3m yield, 1y earlier",4.02%,4.02,Federal Reserve Bank of St. Louis (FRED),DGS3MO,2025-09-30,https://fred.stlouisfed.org/series/DGS3MO,
+Yield curve,"10y yield, 1y earlier",4.16%,4.16,Federal Reserve Bank of St. Louis (FRED),DGS10,2025-09-30,https://fred.stlouisfed.org/series/DGS10,
+Yield curve,"30y yield, 1y earlier",4.73%,4.73,Federal Reserve Bank of St. Louis (FRED),DGS30,2025-09-30,https://fred.stlouisfed.org/series/DGS30,
+Yield curve,"3m yield, 2y earlier",4.73%,4.73,Federal Reserve Bank of St. Louis (FRED),DGS3MO,2024-09-30,https://fred.stlouisfed.org/series/DGS3MO,
+Yield curve,"10y yield, 2y earlier",3.81%,3.81,Federal Reserve Bank of St. Louis (FRED),DGS10,2024-09-30,https://fred.stlouisfed.org/series/DGS10,
+Yield curve,"30y yield, 2y earlier",4.14%,4.14,Federal Reserve Bank of St. Louis (FRED),DGS30,2024-09-30,https://fred.stlouisfed.org/series/DGS30,
+Yield curve,"10y minus 3m, quarter end",+1.09 pt,1.09,Federal Reserve Bank of St. Louis (FRED),DGS10 - DGS3MO,2026-09-30,https://fred.stlouisfed.org/series/DGS10,
+Yield curve,"10y minus 3m, one year earlier",+0.14 pt,0.14,Federal Reserve Bank of St. Louis (FRED),DGS10 - DGS3MO,2025-09-30,https://fred.stlouisfed.org/series/DGS10,
+Real yields,"10y real yield, quarter end",2.93%,2.93,Federal Reserve Bank of St. Louis (FRED),DFII10,2026-09-30,https://fred.stlouisfed.org/series/DFII10,
+Real yields,"10y breakeven, quarter end",2.36%,2.36,Federal Reserve Bank of St. Louis (FRED),T10YIE,2026-09-30,https://fred.stlouisfed.org/series/T10YIE,
+Real yields,"10y real yield, 15-year average",0.57%,0.569483,Federal Reserve Bank of St. Louis (FRED),DFII10,2011-09-30 to 2026-09-30,https://fred.stlouisfed.org/series/DFII10,mean of daily observations
+Real yields,Real yield: highest since at least,2009,2.93,Federal Reserve Bank of St. Louis (FRED),DFII10,2009-01-02 to 2026-09-30,https://fred.stlouisfed.org/series/DFII10,every daily observation in the window is below the quarter-end value
+Policy rate,"Effective fed funds, quarter end",3.88%,3.88,Federal Reserve Bank of St. Louis (FRED),DFF,2026-09-30,https://fred.stlouisfed.org/series/DFF,
+Policy rate,"2-year Treasury, quarter end",4.88%,4.88,Federal Reserve Bank of St. Louis (FRED),DGS2,2026-09-30,https://fred.stlouisfed.org/series/DGS2,
+Policy rate,"CPI inflation yoy, latest published",3.4%,3.353016,Federal Reserve Bank of St. Louis (FRED),CPIAUCSL,August 2026,https://fred.stlouisfed.org/series/CPIAUCSL,12-month change in the index
+Policy rate,2-year minus fed funds,+1.00 pt,1.0,Federal Reserve Bank of St. Louis (FRED),DGS2 - DFF,2026-09-30,https://fred.stlouisfed.org/series/DGS2,
+Economy,"Consumer prices, % change over 12 months",3.4%,3.353016,Federal Reserve Bank of St. Louis (FRED),CPIAUCSL,August 2026,https://fred.stlouisfed.org/series/CPIAUCSL,12-month % change
+Economy,"Unemployment rate, %",4.1%,4.1,Federal Reserve Bank of St. Louis (FRED),UNRATE,August 2026,https://fred.stlouisfed.org/series/UNRATE,level
+Economy,"Payrolls, monthly change, thousands (3-month average)",69k,69.0,Federal Reserve Bank of St. Louis (FRED),PAYEMS,August 2026,https://fred.stlouisfed.org/series/PAYEMS,3-month average of monthly change
+Economy,"Industrial production, % change over 12 months",1.6%,1.615454,Federal Reserve Bank of St. Louis (FRED),INDPRO,August 2026,https://fred.stlouisfed.org/series/INDPRO,12-month % change
+Economy,"Payrolls 3-month average, three months earlier",142k,141.666667,Federal Reserve Bank of St. Louis (FRED),PAYEMS,May 2026,https://fred.stlouisfed.org/series/PAYEMS,basis for the verb in the title (more than 25k lower = slowed)
+Quality table,GOOGL revenue CAGR,17.2%,17.154839,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,GOOGL operating margin,32.0%,32.032639,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,
+Quality table,GOOGL margin change,+9.4 pt,9.447487,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,
+Quality table,GOOGL FCF margin,18.2%,18.18755,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,
+Quality table,GOOGL share count change,-10.5%,-10.485859,SEC EDGAR,CommonStockSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,GOOGL cash returned / FCF,87%,86.533235,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,
+Quality table,COST revenue CAGR,10.5%,10.540604,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,COST operating margin,3.8%,3.772413,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Quality table,COST margin change,+0.5 pt,0.513257,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Quality table,COST FCF margin,2.8%,2.847385,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Quality table,COST share count change,+0.2%,0.203198,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,COST cash returned / FCF,76%,76.241606,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Quality table,MA revenue CAGR,16.5%,16.468094,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,MA operating margin,57.6%,57.628618,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,
+Quality table,MA margin change,+4.8 pt,4.815076,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,
+Quality table,MA FCF margin,52.3%,52.328383,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,
+Quality table,MA share count change,-9.9%,-9.940358,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,MA cash returned / FCF,91%,91.242466,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,
+Quality table,MRSH revenue CAGR,9.4%,9.391809,SEC EDGAR,RevenueFromContractWithCustomerExcludingAssessedTax,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,MRSH operating margin,23.1%,23.064379,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,
+Quality table,MRSH margin change,+5.3 pt,5.263635,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,
+Quality table,MRSH FCF margin,18.5%,18.535266,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,
+Quality table,MRSH share count change,-3.5%,-3.515625,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,MRSH cash returned / FCF,73%,73.122425,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,
+Quality table,TXN revenue CAGR,4.1%,4.103807,SEC EDGAR,RevenueFromContractWithCustomerExcludingAssessedTax,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,TXN operating margin,34.1%,34.062889,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,
+Quality table,TXN margin change,-6.7 pt,-6.695012,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,
+Quality table,TXN FCF margin,14.7%,14.721185,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,
+Quality table,TXN share count change,-2.1%,-2.143623,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,TXN cash returned / FCF,166%,166.270448,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,
+Quality table,DHR revenue CAGR,2.0%,1.970684,SEC EDGAR,RevenueFromContractWithCustomerExcludingAssessedTax,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,DHR operating margin,19.1%,19.089873,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,
+Quality table,DHR margin change,+0.1 pt,0.103156,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,
+Quality table,DHR FCF margin,21.4%,21.409964,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,
+Quality table,DHR share count change,-0.4%,-0.361764,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,DHR cash returned / FCF,42%,42.435831,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,
+Quality table,AZO revenue CAGR,8.4%,8.436606,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,AZO operating margin,19.1%,19.062305,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,
+Quality table,AZO margin change,-0.1 pt,-0.077066,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,
+Quality table,AZO FCF margin,9.5%,9.45196,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,
+Quality table,AZO share count change,-28.4%,-28.423193,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,AZO cash returned / FCF,143%,142.967446,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,
+Quality table,BKNG revenue CAGR,31.7%,31.690564,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,BKNG operating margin,32.8%,32.785972,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,
+Quality table,BKNG margin change,+42.1 pt,42.070845,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,
+Quality table,BKNG FCF margin,33.8%,33.759334,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,
+Quality table,BKNG share count change,-20.7%,-20.702138,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,BKNG cash returned / FCF,100%,99.541032,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,
+Quality table,UNP revenue CAGR,4.6%,4.64413,SEC EDGAR,RevenueFromContractWithCustomerExcludingAssessedTax,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,UNP operating margin,40.2%,40.171359,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,
+Quality table,UNP margin change,+0.1 pt,0.064872,SEC EDGAR,OperatingIncomeLoss / RevenueFromContractWithCustomerExcludingAssessedTax,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,
+Quality table,UNP FCF margin,22.4%,22.435741,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,
+Quality table,UNP share count change,-12.3%,-12.251509,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,UNP cash returned / FCF,122%,121.564776,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,
+Quality table,CMI revenue CAGR,11.2%,11.190413,SEC EDGAR,Revenues,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,(rev FY / rev FY-5)^(1/5) - 1
+Quality table,CMI operating margin,12.0%,11.954262,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,
+Quality table,CMI margin change,+0.5 pt,0.501029,SEC EDGAR,OperatingIncomeLoss / Revenues,FY2020 to FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,
+Quality table,CMI FCF margin,7.1%,7.086427,SEC EDGAR,(NetCashProvidedByUsedInOperatingActivities - PaymentsToAcquirePropertyPlantAndEquipment) / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,
+Quality table,CMI share count change,-6.9%,-6.912752,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2020-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,product of five within-filing year-over-year ratios (split-proof)
+Quality table,CMI cash returned / FCF,80%,79.952417,SEC EDGAR,"(dividends + buybacks) / (CFO - capex), summed",FY2021-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,
+Quality table,Portfolio g,11.7%,11.73948,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+Quality table,Portfolio om,27.3%,27.288228,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+Quality table,Portfolio dom,+5.6 pt,5.603229,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+Quality table,Portfolio fcf,20.0%,19.979277,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+Quality table,Portfolio sh,-9.2%,-9.229998,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+Quality table,Portfolio ret,97%,96.85869,SEC EDGAR,weighted average of the rows above,as above,,weights renormalized to exclude cash
+quality,analyst note,"Five-year comparisons for calendar-year companies start in fiscal 2020, when the pandemic cut travel: Booking's operating margin was negative that year, which explains its growth and margin change.",,Firm analyst note,config/portfolio-2026-Q3.json,2026-09-30,,
+Share counts,AZO share index FY2025 (FY2015=100),54,53.545923,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,BKNG share index FY2025 (FY2015=100),63,63.262458,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,UNP share index FY2025 (FY2015=100),69,68.541523,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,CMI share index FY2025 (FY2015=100),78,77.730122,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,MA share index FY2025 (FY2015=100),80,79.683377,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,TXN share index FY2025 (FY2015=100),88,87.535954,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,GOOGL share index FY2025 (FY2015=100),88,87.934957,SEC EDGAR,CommonStockSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,MRSH share index FY2025 (FY2015=100),92,92.164179,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,COST share index FY2025 (FY2015=100),100,100.471408,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,chain of within-filing year-over-year ratios; immune to stock splits
+Share counts,DHR share index FY2025 (FY2015=100),101,101.072689,SEC EDGAR,WeightedAverageNumberOfDilutedSharesOutstanding,FY2015-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,chain of within-filing year-over-year ratios; immune to stock splits
+Capital allocation,"GOOGL capital spending, % of operating cash flow, 10 yrs",40%,40.056789,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,ten fiscal years summed
+Capital allocation,"GOOGL acquisitions, % of operating cash flow, 10 yrs",3%,2.5283,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,ten fiscal years summed
+Capital allocation,"GOOGL dividends, % of operating cash flow, 10 yrs",2%,2.134747,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,ten fiscal years summed
+Capital allocation,"GOOGL share repurchases, % of operating cash flow, 10 yrs",42%,42.440418,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,ten fiscal years summed
+Capital allocation,"COST capital spending, % of operating cash flow, 10 yrs",43%,43.24617,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,ten fiscal years summed
+Capital allocation,"COST acquisitions, % of operating cash flow, 10 yrs",0%,0.0,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,ten fiscal years summed
+Capital allocation,"COST dividends, % of operating cash flow, 10 yrs",33%,33.18492,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,ten fiscal years summed
+Capital allocation,"COST share repurchases, % of operating cash flow, 10 yrs",6%,5.944573,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,ten fiscal years summed
+Capital allocation,"MA capital spending, % of operating cash flow, 10 yrs",4%,3.906306,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,ten fiscal years summed
+Capital allocation,"MA acquisitions, % of operating cash flow, 10 yrs",11%,11.200346,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,ten fiscal years summed
+Capital allocation,"MA dividends, % of operating cash flow, 10 yrs",17%,17.298473,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,ten fiscal years summed
+Capital allocation,"MA share repurchases, % of operating cash flow, 10 yrs",72%,71.699125,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,ten fiscal years summed
+Capital allocation,"MRSH capital spending, % of operating cash flow, 10 yrs",11%,10.749453,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,ten fiscal years summed
+Capital allocation,"MRSH acquisitions, % of operating cash flow, 10 yrs",52%,52.002796,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,ten fiscal years summed
+Capital allocation,"MRSH dividends, % of operating cash flow, 10 yrs",33%,32.628252,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,ten fiscal years summed
+Capital allocation,"MRSH share repurchases, % of operating cash flow, 10 yrs",30%,30.485655,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/,ten fiscal years summed
+Capital allocation,"TXN capital spending, % of operating cash flow, 10 yrs",35%,34.986111,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,ten fiscal years summed
+Capital allocation,"TXN acquisitions, % of operating cash flow, 10 yrs",0%,0.0,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,ten fiscal years summed
+Capital allocation,"TXN dividends, % of operating cash flow, 10 yrs",52%,52.395241,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,ten fiscal years summed
+Capital allocation,"TXN share repurchases, % of operating cash flow, 10 yrs",33%,32.890183,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/,ten fiscal years summed
+Capital allocation,"DHR capital spending, % of operating cash flow, 10 yrs",16%,16.219529,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,ten fiscal years summed
+Capital allocation,"DHR acquisitions, % of operating cash flow, 10 yrs",80%,79.538152,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,ten fiscal years summed
+Capital allocation,"DHR dividends, % of operating cash flow, 10 yrs",11%,10.938577,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,ten fiscal years summed
+Capital allocation,"DHR share repurchases, % of operating cash flow, 10 yrs",16%,15.545223,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/,ten fiscal years summed
+Capital allocation,"AZO capital spending, % of operating cash flow, 10 yrs",27%,27.027722,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,ten fiscal years summed
+Capital allocation,"AZO acquisitions, % of operating cash flow, 10 yrs",0%,0.0,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,ten fiscal years summed
+Capital allocation,"AZO dividends, % of operating cash flow, 10 yrs",0%,0.0,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,ten fiscal years summed
+Capital allocation,"AZO share repurchases, % of operating cash flow, 10 yrs",89%,89.497297,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/,ten fiscal years summed
+Capital allocation,"BKNG capital spending, % of operating cash flow, 10 yrs",6%,6.316499,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,ten fiscal years summed
+Capital allocation,"BKNG acquisitions, % of operating cash flow, 10 yrs",2%,2.219766,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,ten fiscal years summed
+Capital allocation,"BKNG dividends, % of operating cash flow, 10 yrs",5%,4.53694,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,ten fiscal years summed
+Capital allocation,"BKNG share repurchases, % of operating cash flow, 10 yrs",91%,90.684475,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/,ten fiscal years summed
+Capital allocation,"UNP capital spending, % of operating cash flow, 10 yrs",39%,39.494645,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,ten fiscal years summed
+Capital allocation,"UNP acquisitions, % of operating cash flow, 10 yrs",0%,0.0,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,ten fiscal years summed
+Capital allocation,"UNP dividends, % of operating cash flow, 10 yrs",31%,31.355016,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,ten fiscal years summed
+Capital allocation,"UNP share repurchases, % of operating cash flow, 10 yrs",50%,50.365702,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/,ten fiscal years summed
+Capital allocation,"CMI capital spending, % of operating cash flow, 10 yrs",32%,32.106712,SEC EDGAR,sum PaymentsToAcquirePropertyPlantAndEquipment / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,ten fiscal years summed
+Capital allocation,"CMI acquisitions, % of operating cash flow, 10 yrs",18%,17.899104,SEC EDGAR,sum PaymentsToAcquireBusinessesNetOfCashAcquired / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,ten fiscal years summed
+Capital allocation,"CMI dividends, % of operating cash flow, 10 yrs",32%,31.978751,SEC EDGAR,sum PaymentsOfDividendsCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,ten fiscal years summed
+Capital allocation,"CMI share repurchases, % of operating cash flow, 10 yrs",23%,23.486758,SEC EDGAR,sum PaymentsForRepurchaseOfCommonStock / sum NetCashProvidedByUsedInOperatingActivities,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/26172/000002617226000009/,ten fiscal years summed
+Capital allocation,"Portfolio capital spending, % of operating cash flow",26%,25.858844,SEC EDGAR,weighted average of the company rows,ten fiscal years,,weights exclude cash
+Capital allocation,"Portfolio acquisitions, % of operating cash flow",16%,16.075095,SEC EDGAR,weighted average of the company rows,ten fiscal years,,weights exclude cash
+Capital allocation,"Portfolio dividends, % of operating cash flow",21%,21.348031,SEC EDGAR,weighted average of the company rows,ten fiscal years,,weights exclude cash
+Capital allocation,"Portfolio share repurchases, % of operating cash flow",45%,44.523194,SEC EDGAR,weighted average of the company rows,ten fiscal years,,weights exclude cash
+Capital allocation,Portfolio returned to owners,66%,65.871226,SEC EDGAR,dividends + buybacks,ten fiscal years,,
+Capital allocation,Portfolio reinvested,42%,41.93394,SEC EDGAR,capex + acquisitions,ten fiscal years,,
+Capital allocation,Companies above 100% of operating cash flow,8,8.0,SEC EDGAR,count of company rows over 100%,ten fiscal years,,"Danaher, Cummins, Marsh McLennan, Union Pacific, Texas Instruments, Mastercard, AutoZone, Booking Holdings"
+Featured: Costco,COST revenue FY2025,$275bn,275235000000.0,SEC EDGAR,Revenues,FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Featured: Costco,COST revenue FY2016,$119bn,118719000000.0,SEC EDGAR,Revenues,FY2016,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,
+Featured: Costco,COST operating margin FY2025,3.8%,3.772413,SEC EDGAR,OperatingIncomeLoss / revenue,FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Featured: Costco,COST operating margin FY2016,3.1%,3.093018,SEC EDGAR,OperatingIncomeLoss / revenue,FY2016,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,
+Featured: Costco,COST FCF per share FY2025,$17.62,17.619036,SEC EDGAR,(CFO - capex) / WeightedAverageNumberOfDilutedSharesOutstanding,FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,split-consistent share count
+Featured: Costco,COST FCF per share FY2016,$1.46,1.457181,SEC EDGAR,(CFO - capex) / WeightedAverageNumberOfDilutedSharesOutstanding,FY2016,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,split-consistent share count
+Featured: Costco,"COST revenue CAGR, 9 years",9.8%,9.793325,SEC EDGAR,revenue,FY2016-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Featured: Costco,"COST FCF per share, ratio of 3-yr averages",2.7 times,2.743679,SEC EDGAR,FCF per share,FY2016-2018 vs FY2023-2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,mean 15.90 / mean 5.80
+Featured: Costco,"COST FCF per share, FY2023-2025 average",$15.90,15.89991,SEC EDGAR,FCF per share,FY2023-FY2025,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Featured: Costco,"COST FCF per share, FY2016-2018 average",$5.80,5.795106,SEC EDGAR,FCF per share,FY2016-FY2018,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,
+Valuation ranges,BKNG P/E at quarter end,18x,17.911145,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,pe_ratio 19.60 x close 162.91 x split 1 / close 178.24 (2026-06-30)
+Valuation ranges,BKNG 10-yr median P/E,27x,26.851575,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,median of 9 fiscal-year averages
+Valuation ranges,GOOGL P/E at quarter end,17x,16.993766,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,pe_ratio 17.65 x close 344.08 x split 1 / close 357.37 (2026-06-30)
+Valuation ranges,GOOGL 10-yr median P/E,24x,24.426643,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,median of 10 fiscal-year averages
+Valuation ranges,MRSH P/E at quarter end,21x,20.826486,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,pe_ratio 20.33 x close 170.73 x split 1 / close 166.67 (2026-06-30)
+Valuation ranges,MRSH 10-yr median P/E,26x,25.612139,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,median of 10 fiscal-year averages
+Valuation ranges,MA P/E at quarter end,30x,30.300829,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,pe_ratio 28.22 x close 551.47 x split 1 / close 513.6 (2026-06-30)
+Valuation ranges,MA 10-yr median P/E,34x,33.894899,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,median of 10 fiscal-year averages
+Valuation ranges,UNP P/E at quarter end,22x,22.008931,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,pe_ratio 22.00 x close 272.13 x split 1 / close 272.0 (2026-06-30)
+Valuation ranges,UNP 10-yr median P/E,20x,20.003025,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,median of 10 fiscal-year averages
+Valuation ranges,AZO P/E at quarter end,19x,19.300855,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-02-28; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,pe_ratio 25.61 x close 2830.02 x split 1 / close 3755.58 (2026-02-27)
+Valuation ranges,AZO 10-yr median P/E,16x,15.78424,roic.ai,average_price_earnings_ratio (annual),FY2017-FY2026,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,median of 10 fiscal-year averages
+Valuation ranges,COST P/E at quarter end,46x,45.729109,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-05-31; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,pe_ratio 48.04 x close 910.34 x split 1 / close 956.32 (2026-05-29)
+Valuation ranges,COST 10-yr median P/E,34x,33.537709,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,median of 10 fiscal-year averages
+Valuation ranges,DHR P/E at quarter end,39x,39.164108,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,pe_ratio 33.67 x close 221.55 x split 1 / close 190.48 (2026-06-30)
+Valuation ranges,DHR 10-yr median P/E,28x,28.270547,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,median of 10 fiscal-year averages
+Valuation ranges,CMI P/E at quarter end,26x,26.275623,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,pe_ratio 36.28 x close 516.57 x split 1 / close 713.21 (2026-06-30)
+Valuation ranges,CMI 10-yr median P/E,15x,14.80075,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,median of 10 fiscal-year averages
+Valuation ranges,TXN P/E at quarter end,42x,42.080607,roic.ai,pe_ratio (TTM) rolled to quarter-end price,TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,pe_ratio 44.78 x close 280.09 x split 1 / close 298.07 (2026-06-30)
+Valuation ranges,TXN 10-yr median P/E,22x,21.93034,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,median of 10 fiscal-year averages
+Valuation ranges,Portfolio earnings yield,4.0%,4.042037,roic.ai,weighted 1 / P/E,2026-09-30,,weights exclude cash
+Valuation ranges,10-year Treasury,5.29%,5.29,Federal Reserve Bank of St. Louis (FRED),DGS10,2026-09-30,https://fred.stlouisfed.org/series/DGS10,
+Valuation table,GOOGL P/E at quarter end,17.0x,16.993766,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,
+Valuation table,GOOGL 10-yr median P/E,24.4x,24.426643,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,median of 10 fiscal-year averages
+Valuation table,GOOGL premium to median,-30%,-30.429384,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,
+Valuation table,GOOGL EV/EBITDA,24.6x,24.551148,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:GOOGL,"at the period-end price, not rolled forward"
+Valuation table,GOOGL ROIC,20.8%,20.844306,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NASDAQ:GOOGL,
+Valuation table,COST P/E at quarter end,45.7x,45.729109,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-05-31; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,
+Valuation table,COST 10-yr median P/E,33.5x,33.537709,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,median of 10 fiscal-year averages
+Valuation table,COST premium to median,+36%,36.351321,roic.ai,P/E now / median - 1,2026-05-31,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,
+Valuation table,COST EV/EBITDA,29.9x,29.894681,roic.ai,ev_to_ttm_ebitda,TTM to 2026-05-31,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:COST,"at the period-end price, not rolled forward"
+Valuation table,COST ROIC,21.9%,21.940673,roic.ai,return_on_inv_capital,TTM to 2026-05-31,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NASDAQ:COST,
+Valuation table,MA P/E at quarter end,30.3x,30.300829,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,
+Valuation table,MA 10-yr median P/E,33.9x,33.894899,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,median of 10 fiscal-year averages
+Valuation table,MA premium to median,-11%,-10.603573,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,
+Valuation table,MA EV/EBITDA,21.4x,21.420582,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MA,"at the period-end price, not rolled forward"
+Valuation table,MA ROIC,55.9%,55.944087,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:MA,
+Valuation table,MRSH P/E at quarter end,20.8x,20.826486,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,
+Valuation table,MRSH 10-yr median P/E,25.6x,25.612139,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,median of 10 fiscal-year averages
+Valuation table,MRSH premium to median,-19%,-18.685097,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,
+Valuation table,MRSH EV/EBITDA,14.5x,14.477164,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:MRSH,"at the period-end price, not rolled forward"
+Valuation table,MRSH ROIC,12.0%,12.013327,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:MRSH,
+Valuation table,TXN P/E at quarter end,42.1x,42.080607,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,
+Valuation table,TXN 10-yr median P/E,21.9x,21.93034,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,median of 10 fiscal-year averages
+Valuation table,TXN premium to median,+92%,91.883061,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,
+Valuation table,TXN EV/EBITDA,29.5x,29.521735,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:TXN,"at the period-end price, not rolled forward"
+Valuation table,TXN ROIC,20.3%,20.309756,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NASDAQ:TXN,
+Valuation table,DHR P/E at quarter end,39.2x,39.164108,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,
+Valuation table,DHR 10-yr median P/E,28.3x,28.270547,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,median of 10 fiscal-year averages
+Valuation table,DHR premium to median,+39%,38.533251,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,
+Valuation table,DHR EV/EBITDA,20.4x,20.385139,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:DHR,"at the period-end price, not rolled forward"
+Valuation table,DHR ROIC,5.8%,5.781499,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:DHR,
+Valuation table,AZO P/E at quarter end,19.3x,19.300855,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-02-28; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,
+Valuation table,AZO 10-yr median P/E,15.8x,15.78424,roic.ai,average_price_earnings_ratio (annual),FY2017-FY2026,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,median of 10 fiscal-year averages
+Valuation table,AZO premium to median,+22%,22.279274,roic.ai,P/E now / median - 1,2026-02-28,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,
+Valuation table,AZO EV/EBITDA,17.7x,17.658929,roic.ai,ev_to_ttm_ebitda,TTM to 2026-02-28,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:AZO,"at the period-end price, not rolled forward"
+Valuation table,AZO ROIC,32.0%,31.997181,roic.ai,return_on_inv_capital,TTM to 2026-02-28,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:AZO,
+Valuation table,BKNG P/E at quarter end,17.9x,17.911145,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,
+Valuation table,BKNG 10-yr median P/E,26.9x,26.851575,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,median of 9 fiscal-year averages
+Valuation table,BKNG premium to median,-33%,-33.295737,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,
+Valuation table,BKNG EV/EBITDA,13.9x,13.859978,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NASDAQ:BKNG,"at the period-end price, not rolled forward"
+Valuation table,BKNG ROIC,65.6%,65.615235,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NASDAQ:BKNG,
+Valuation table,UNP P/E at quarter end,22.0x,22.008931,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,
+Valuation table,UNP 10-yr median P/E,20.0x,20.003025,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,median of 10 fiscal-year averages
+Valuation table,UNP premium to median,+10%,10.028018,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,
+Valuation table,UNP EV/EBITDA,15.0x,15.027697,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:UNP,"at the period-end price, not rolled forward"
+Valuation table,UNP ROIC,15.0%,15.044383,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:UNP,
+Valuation table,CMI P/E at quarter end,26.3x,26.275623,roic.ai,"pe_ratio (TTM, GAAP diluted EPS) rolled to quarter-end price",TTM to 2026-06-30; price 2026-09-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,
+Valuation table,CMI 10-yr median P/E,14.8x,14.80075,roic.ai,average_price_earnings_ratio (annual),FY2016-FY2025,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,median of 10 fiscal-year averages
+Valuation table,CMI premium to median,+78%,77.529001,roic.ai,P/E now / median - 1,2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,
+Valuation table,CMI EV/EBITDA,20.7x,20.667203,roic.ai,ev_to_ttm_ebitda,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/multiples/NYSE:CMI,"at the period-end price, not rolled forward"
+Valuation table,CMI ROIC,12.8%,12.788107,roic.ai,return_on_inv_capital,TTM to 2026-06-30,https://api.roic.ai/v3.0.0/fundamental/ratios/profitability/NYSE:CMI,
+Positioning,TXN weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,DHR weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,AZO weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,BKNG weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,UNP weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,CMI weight,9%,9.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,MA weight,10%,10.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,MRSH weight,10%,10.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,COST weight,11%,11.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,GOOGL weight,12%,12.0,Firm holdings file,config/portfolio-2026-Q3.json,2026-09-30,,
+Positioning,Cash weight,3%,3.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Information Technology weight,9%,9.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Health Care weight,9%,9.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Consumer Staples weight,11%,11.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Communication Services weight,12%,12.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Consumer Discretionary weight,18%,18.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Industrials weight,18%,18.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+Positioning,Financials weight,20%,20.0,Firm holdings file,sum of holding weights by the firm's sector classification,2026-09-30,,
+What changed,"10-year Treasury yield, previous review",4.44%,4.44,archived previous review,dgs10,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"10-year Treasury yield, this review",5.29%,5.29,this review,dgs10,2026-09-30,,
+What changed,10-year Treasury yield change,+0.85 pt,0.85,this deck and the archived previous deck,dgs10,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"2-year Treasury yield, previous review",4.14%,4.14,archived previous review,dgs2,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"2-year Treasury yield, this review",4.88%,4.88,this review,dgs2,2026-09-30,,
+What changed,2-year Treasury yield change,+0.74 pt,0.74,this deck and the archived previous deck,dgs2,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"10-year minus 3-month, pt, previous review",+0.57,0.57,archived previous review,spread_10y3m,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"10-year minus 3-month, pt, this review",+1.09,1.09,this review,spread_10y3m,2026-09-30,,
+What changed,"10-year minus 3-month, pt change",+0.52 pt,0.52,this deck and the archived previous deck,spread_10y3m,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"10-year real yield, previous review",2.20%,2.2,archived previous review,real10,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"10-year real yield, this review",2.93%,2.93,this review,real10,2026-09-30,,
+What changed,10-year real yield change,+0.73 pt,0.73,this deck and the archived previous deck,real10,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"Effective federal funds rate, previous review",3.63%,3.63,archived previous review,fedfunds,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"Effective federal funds rate, this review",3.88%,3.88,this review,fedfunds,2026-09-30,,
+What changed,Effective federal funds rate change,+0.25 pt,0.25,this deck and the archived previous deck,fedfunds,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"CPI inflation, year over year, previous review",4.2%,4.166615,archived previous review,cpi_yoy,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"CPI inflation, year over year, this review",3.4%,3.353016,this review,cpi_yoy,2026-09-30,,
+What changed,"CPI inflation, year over year change",-0.8 pt,-0.813598,this deck and the archived previous deck,cpi_yoy,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"Unemployment rate, previous review",4.3%,4.3,archived previous review,unrate,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"Unemployment rate, this review",4.1%,4.1,this review,unrate,2026-09-30,,
+What changed,Unemployment rate change,-0.2 pt,-0.2,this deck and the archived previous deck,unrate,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"Payrolls, 3-month average change (k), previous review",142,141.666667,archived previous review,payrolls_3m,2026-06-30,runs/2026-Q2/summary.json,
+What changed,"Payrolls, 3-month average change (k), this review",69,69.0,this review,payrolls_3m,2026-09-30,,
+What changed,"Payrolls, 3-month average change (k) change",-73,-72.666667,this deck and the archived previous deck,payrolls_3m,2026-06-30 to 2026-09-30,,difference of the two archived values
+What changed,"CMI weight, previous review",8%,8.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,CMI weight change,+1 pt,1.0,Firm holdings file,weight,2026-06-30 to 2026-09-30,,
+What changed,"GOOGL weight, previous review",11%,11.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,GOOGL weight change,+1 pt,1.0,Firm holdings file,weight,2026-06-30 to 2026-09-30,,
+What changed,"TXN weight, previous review",8%,8.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,TXN weight change,+1 pt,1.0,Firm holdings file,weight,2026-06-30 to 2026-09-30,,
+What changed,"COST weight, previous review",12%,12.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,COST weight change,-1 pt,-1.0,Firm holdings file,weight,2026-06-30 to 2026-09-30,,
+What changed,"UNP weight, previous review",10%,10.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,UNP weight change,-1 pt,-1.0,Firm holdings file,weight,2026-06-30 to 2026-09-30,,
+What changed,"Cash weight, previous review",4%,4.0,Firm holdings file,config/portfolio-2026-Q2.json,2026-06-30,,
+What changed,Cash weight change,-1 pt,-1.0,Firm holdings file,cash_weight,2026-06-30 to 2026-09-30,,
+What changed,Filings in quarter,24,24.0,SEC EDGAR,"submissions: 10-K, 10-Q, 8-K, proxy",2026-07-01 to 2026-09-30,https://www.sec.gov/cgi-bin/browse-edgar,"10-Q 8, 8-K 16"
