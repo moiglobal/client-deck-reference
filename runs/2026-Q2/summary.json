@@ -1,0 +1,44 @@
+{
+ "period": "2026-Q2",
+ "label": "Second quarter 2026",
+ "as_of": "2026-06-30",
+ "summary": {
+  "dgs10": 4.44,
+  "cpi_yoy": 4.166614684049641,
+  "cpi_month": "May 2026",
+  "unrate": 4.3,
+  "un_month": "May 2026",
+  "port_rev_cagr": 11.681929721364877,
+  "spread_10y3m": 0.5700000000000003,
+  "dgs2": 4.14,
+  "dgs3mo": 3.87,
+  "real10": 2.2,
+  "breakeven10": 2.24,
+  "fedfunds": 3.63,
+  "payrolls_3m": 141.66666666666666,
+  "port_fcf_margin": 20.03414363407209,
+  "shrinkers": 9,
+  "payout_10y": 65.88576061931425,
+  "reinvest_10y": 41.90370765215088,
+  "port_earnings_yield": 3.4822362713506623,
+  "above_median": 7,
+  "weights": {
+   "TXN": 8.0,
+   "CMI": 8.0,
+   "DHR": 9.0,
+   "AZO": 9.0,
+   "BKNG": 9.0,
+   "MA": 10.0,
+   "MRSH": 10.0,
+   "UNP": 10.0,
+   "GOOGL": 11.0,
+   "COST": 12.0
+  },
+  "cash": 4.0,
+  "filings": {
+   "8-K": 41,
+   "10-Q": 10,
+   "DEF 14A": 4
+  }
+ }
+}
