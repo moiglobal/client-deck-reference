@@ -1,0 +1,29 @@
+{
+  "_comment": "House style for the fictional firm Larkspur Vale Capital. In the course, Lesson 1 produces this file by reading the firm's existing client letter and factsheet; every value here is one a reader would check against those materials.",
+  "firm_name": "Larkspur Vale Capital",
+  "firm_short": "Larkspur Vale",
+  "document_name": "Quarterly Client Review",
+  "slide": {"width_in": 13.333, "height_in": 7.5},
+  "fonts": {"heading": "Georgia", "body": "Calibri"},
+  "colors": {
+    "ink": "#1E2A4F",
+    "ink_secondary": "#4B5563",
+    "ink_muted": "#6B7280",
+    "rule": "#D9DCE3",
+    "surface": "#FFFFFF",
+    "surface_alt": "#F4F3EF",
+    "primary": "#23305E",
+    "accent": "#B8862E",
+    "draft": "#C0392B"
+  },
+  "chart_palette": {
+    "_comment": "Categorical order is fixed; validated for color-vision deficiency (adjacent-pair deltaE >= 8) with the dataviz validator on 2026-11-06. Brand primary and accent are too muted for chart marks, so the chart palette is a brighter set in the same family.",
+    "categorical": ["#3F5BC4", "#D9822B", "#A8458C", "#2E9466"],
+    "emphasis": "#3F5BC4",
+    "context": "#A9B1C7",
+    "grid": "#E6E8EE"
+  },
+  "logo": "brand/logo.png",
+  "footer": "{firm_name}  |  {document_name}, {period_label}",
+  "standing_disclosure": "Larkspur Vale Capital is a fictional firm created for a Latticework course. This material is for illustration only. It is not an offer or solicitation, and it is not investment advice. The companies shown are discussed as examples of analysis; their inclusion is not a recommendation. Data come from public sources believed reliable but not guaranteed."
+}
